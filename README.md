@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **simplyrin2@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1G_K0lMUTsbjdjfq_YWspnUX8PCd2EjE2/view](https://drive.google.com/file/d/1G_K0lMUTsbjdjfq_YWspnUX8PCd2EjE2/view)
+- 📄 Resume (https://drive.google.com/file/d/1G_K0lMUTsbjdjfq_YWspnUX8PCd2EjE2/view](https://drive.google.com/file/d/1G_K0lMUTsbjdjfq_YWspnUX8PCd2EjE2/view)
 
 - ⚡ Fun fact **I think I am funny!!**
 
