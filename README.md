@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Indranil Patra</h1>
-<h3 align="center">A passionate Machine Learning and Deep Learning geek.</h3>
+<h3 align="center">A passionate Machine Learning, Deep Learning and Computer Vision geek.</h3>
 
 - 📫 How to reach me **simplyrin2@gmail.com**
 
