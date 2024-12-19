@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I think I am funny!!**
 
-<h3 align="left">Connect with me: linkedin.com/in/indranilpatra</h3>
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/indranilpatra" target="_blank">LinkedIn</a></h3>
 <p align="left">
 </p>
 
