@@ -1,7 +1,3 @@
-Here’s the updated README:  
-
----
-
 <h1 align="center">Hi 👋, I'm Indranil Patra</h1>
 <h3 align="center">A passionate Machine Learning, Deep Learning, and Computer Vision enthusiast</h3>
 
@@ -42,7 +38,3 @@ Here’s the updated README:
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
 </p>
-
----
-
-Would you like any other adjustments? 😊
